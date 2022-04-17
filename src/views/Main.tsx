@@ -1,7 +1,7 @@
 import React from 'react';
 
-function Header() {
-  return <div>Header</div>;
+function Main() {
+  return <div>Main</div>;
 }
 
-export default Header;
+export default Main;
